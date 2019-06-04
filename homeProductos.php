@@ -23,7 +23,8 @@
                 <li><a href="index.php">Home</a></li>
                 <li><a href="contacto.html">Contacto</a></li>
                 <li><a href="login.php">Cerrar sesión</a></li>
-                
+                <li><a href="Mision.html">Mision</a></li>
+                <li><a href="Vision.html">Vision</a></li>
               
             </ul>
         </nav>
