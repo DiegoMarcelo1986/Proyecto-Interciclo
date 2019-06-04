@@ -1,0 +1,108 @@
+
+@charset "utf-8";
+
+.login{
+    background-image: url(css/fondo2.png);
+    font-family: cursive;
+    font-size: 30px;
+}
+
+
+
+header{
+    font-family: cursive;
+    font-size: 15;
+}
+
+nav li {
+    float: left;
+    padding: 10px;
+    list-style: none;
+}
+nav ul {
+    font-size: 15px;
+
+    
+}
+table {
+   width: 100%;
+   border: 1px solid #000;
+}
+th, td {
+   text-align: left;
+   vertical-align: top;
+   border: 1px solid #000;
+   border-collapse: collapse;
+   padding: 0.3em;
+   caption-side: bottom;
+    
+}
+
+td{
+   font-size: 15px; 
+}
+
+th {
+   background:#aaa ;
+font-size: 15px; 
+}
+
+table tr {
+    text-align: center;
+}
+
+
+.boton {
+    background-color:black;
+    height: 27px;
+    width:  174px;
+    opacity: 0.5;
+    font-family: monospace;
+    font-style: normal;
+    color: azure;
+    line-height: 0px;
+    margin-left: 41px;
+    margin-top: 4px;
+}
+div{
+    margin: 9px;
+    margin-left: 100px;
+    margin-top: -2px;
+}
+
+input{
+    margin-left: 20px;
+    margin-right: 20px;
+    align-content: center;
+    height: 20px;
+   
+}
+
+.reg{
+    color: #4F4E4E;
+}
+
+/*TABLA*/
+
+h1{
+  font-size: 30px;
+  color: #fff;
+  text-transform: uppercase;
+  font-weight: 300;
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+.tbl-header{
+  background-color: rgba(255,255,255,0.3);
+ }
+.tbl-content{
+  height:300px;
+  overflow-x:auto;
+  margin-top: 0px;
+  border: 1px solid rgba(255,255,255,0.3);
+}
+
+
+
+

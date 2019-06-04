@@ -1,0 +1,82 @@
+
+.imgRedonda {
+    width:300px;
+    height:300px;
+    border-radius:160px;
+    float: right;
+    margin-top: 10px;
+    margin-right: 50px;
+   
+}
+.imgRedonda1 {
+    width:300px;
+    height:300px;
+    border-radius:160px;
+    float: right;
+    margin-top: 10px;
+    margin-right: 50px;
+   
+}
+
+
+.iniciar {
+    list-style: none;
+    float: right;
+    font-family: cursive;
+    font-size: 15px;
+}
+
+.ini {
+     list-style: none;
+    font-family: cursive;
+    font-size: 15px;
+}
+
+.b{
+    background-image: url(css/fonfo_contacto.jpg);
+    font-family: cursive;
+    background-size: contain;
+    background-color: palegreen;
+    
+}
+
+
+.div1{
+    width: 210px;
+  height: 110px;
+  border: black 3px solid;
+  margin-left: 10px;
+  margin-right: 10px;
+  background-color: darkgray;
+  background-repeat: no-repeat;
+}
+
+
+.div2{
+width: 1210px;
+  height: 110px;  
+    padding: 10px;
+    margin: 30px;
+
+}
+
+.div3{
+    width: 400px;
+    height: 450px;  
+    padding: 10px;
+    margin: 30px;
+    list-style: none;
+}
+
+
+.div4{
+    width: 400px;
+    height: 450px;  
+    padding: 10px;
+    margin-top: -500px;
+    float: right;
+    list-style: none;
+}
+
+
+

@@ -1,0 +1,76 @@
+
+.cabe{
+    background-image: url(css/fondo2.png);
+}
+
+form{
+    padding: 0.1%;
+/*    margin: auto auto;*/
+/*    width: auto;*/
+/*    background-image: url("h.png");*/
+    background-repeat: no-repeat;
+    content: inherit;
+}
+
+form div + div {
+    margin-top: 1.6em;
+    margin-left: 0.5%;
+}
+
+label{
+    display: inline-block;
+    width: 60px;
+    margin-right: 2em;
+    margin-left: 3em;
+}
+
+select{
+    width: 252px;
+}
+button{
+    display: block;
+    margin-top: 1.5em;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 260px;
+}
+input{
+    width: 250px;
+    text-align: center;
+}
+input.placeholder { 
+    text-align: center; 
+} 
+body{
+    background-color: #e8efee;
+/*    background-color: #1F2739;*/
+}
+h3{
+     margin-left: 195px;
+}
+
+#preview {
+  border:1px solid #ddd;
+  padding:5px;
+  border-radius:2px;
+  background:#e8efee;
+  max-width:80px;
+    margin-left: 230px;
+}
+#preview img {width: 80px; height: 80px; display: block}
+.tarjetasL{
+    width: 101px;
+}
+.tarjetasV{
+    margin: 5px;
+    width:25px;
+}
+.tarjetaP{
+    display: inline;
+    margin-right:0px;
+    margin-left:0px;
+}
+.tarjetasC{
+    margin-right: 84px;
+    width: 50px;
+}
